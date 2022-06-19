@@ -10,4 +10,7 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
+	public String sayItLoudly(){
+		return "VERY LOUD TEXT";
+	}
 }
